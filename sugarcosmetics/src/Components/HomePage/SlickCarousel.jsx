@@ -154,47 +154,47 @@ slidesToShow: 4,
 
 const bestsellerImages= [
   {
-    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FLipstick-_-Kohl-Value-Set---WBG_1.jpg%3Fv%3D1692719185&w=256&q=75",
+    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FThe-SUGAR-Classics-Birthday-Special-Kit.jpg%3Fv%3D1719932026&w=256&q=75",
     description:"Lipstick and kohal set",
     price:"14",
   }
   ,
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F489511912-women-s-day-gifting-kit-wbg-images_1.jpg%3Fv%3D1688227825&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FVineetas-Favourite-Makeup-Kit.jpg%3Fv%3D1719879474&w=256&q=75",
     description:"All you need Beauty kit ",
     price:"14",
   },
   {
-    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F554408657-wedding-makeup-kit-revamp_1.jpg%3Fv%3D1700475948&w=256&q=75",
+    url: "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Crayon-Lipstick-Minis-Set-of-3.jpg%3Fv%3D1719867590&w=256&q=75",
     description:"Weeding Makeup kit ",
     price:"13",
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F566527803-the-office-makeup-kit-wbg-1.jpg%3Fv%3D1704460836&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSummer-Makeup-Kit.jpg%3Fv%3D1719877531&w=256&q=75",
     description:"The Ofiice Makeup kit ",
     price:"14",
     
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FValue-Sets---WBG-Listing_de1b12a1-0bf9-4ea0-8f47-fafa1c76bafa.jpg%3Fv%3D1694187888&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FPrime-Pout-Minimal-Set.jpg%3Fv%3D1719895945&w=256&q=75",
     description:"Priming Mostrixzue and foundation duo",
     price:"13",
     
   },
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FValue-Sets---WBG-Listing_543b4a34-7c88-4bf5-b51a-26354f743fcb.jpg%3Fv%3D1694187910&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FWedding-Makeup-Kit-by-Tamannaah.jpg%3Fv%3D1719892122&w=256&q=75",
     description:"Lips so pretty duo",
     price:"8",
     
   },
   {
-    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FAirKissPowderPoweredByImagesArtboard1.jpg%3Fv%3D1644813116&w=256&q=75",
+    url:  "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMousse-Muse-Lip-Cream-Set-of-3-Free-Lipstick-Box.jpg%3Fv%3D1719902709&w=256&q=75",
     description:"Air kiss powder Lipstick",
     price:"13",
     
   },
   {
-    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F489511912-women-s-day-gifting-kit-wbg-images_1.jpg%3Fv%3D1688227825&w=256&q=75",
+    url:   "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FPrime-Pout-Minimal-Set.jpg%3Fv%3D1719895945&w=256&q=75",
     description:"All you need Beauty kit ",
     price:"11",
     
@@ -214,31 +214,31 @@ const hotdeals=[
 
 const justinImages=[
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSibling-Love-Limited-Edition-Gift-Set---WBG.jpg%3Fv%3D1700063053&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Mega-Hype-Colour-Changing-Lip-Oil.jpg%3Fv%3D1719899159&w=256&q=75",
     description:"Pujo Special Makeup Kit",
     price:"14",
     
   },
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FLaunch-Arch-Arrival-Brow-Styler.jpg%3Fv%3D1694706131&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FCitrus-Got-Real-SPF30-Sunscreen.jpg%3Fv%3D1719867202&w=256&q=75",
     description:"Arch Arrival brow Styler",
     price:"14",
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/1_2d186f9b-9024-4e23-a0d2-a55b7671e89c.jpg?v=1657123108",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FCoffee-Culture-Cleansing-Balm-Stick.jpg%3Fv%3D1719874650&w=256&q=75",
     description:"Pujo Special Makeup Kit",
     price:"14",
     
   },
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F549928439-main-img.jpg%3Fv%3D1698248481&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAquaholic-Hyaluronic-Serum.jpg%3Fv%3D1719869378&w=256&q=75",
     description:"Pujo Special Makeup Kit",
     price:"14",
     
   },
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F1_302fb1a0-4862-49b1-bd45-404e6ce8e578.jpg%3Fv%3D1696571396&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSwipe-Right-Cleansing-Water_da83328e-c91c-4e05-b5db-594ecf05ff51.jpg%3Fv%3D1719842208&w=256&q=75",
     description:"Pujo Special Makeup Kit",
     price:"14",
     
@@ -274,7 +274,7 @@ const toppicks= [
 
 const giftingImages = [
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FLipstick-_-Kohl-Value-Set---WBG_1.jpg%3Fv%3D1692719185&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-High-Key-Chrome-Eyeshadow.jpg%3Fv%3D1719893525&w=256&q=75",
     description:"Eye Liner ",
     price:"14",
     
@@ -286,13 +286,13 @@ const giftingImages = [
     
   },
   {
-    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F554408657-wedding-makeup-kit-revamp_1.jpg%3Fv%3D1700475948&w=256&q=75",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FFestive-Makeup-Kit.jpg%3Fv%3D1719901256&w=256&q=75",
     description:"Wedding Makeup Kit",
     price:"13",
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/1_0cbf7ca7-3b1c-4838-8fda-176ebd7d38fa.jpg?v=1649423983",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Main-Character-SPF15-Mattifying-Compact.jpg%3Fv%3D1719893792&w=256&q=75",
     description:"Wedding Makeup Kit",
     price:"13",
     
@@ -326,7 +326,7 @@ const giftingImages = [
 const supersaverImages=[
  
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg?v=1619119204",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Main-Character-SPF15-Mattifying-Compact.jpg%3Fv%3D1719893792&w=256&q=75",
     description:"Lipstick value set",
     price:"11",
     

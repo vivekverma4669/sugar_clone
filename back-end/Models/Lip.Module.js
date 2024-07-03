@@ -1,10 +1,13 @@
-const mongoose =require('mongoose');
+const mongoose = require('mongoose');
 const LipSchema= mongoose.Schema({
     title: { type: String, required: true },
     content: { type: String, required: true },
-    type: { type: String, enum: ['lip', 'brush', 'skincare', 'masks', 'trending'] },
-    imageUrl: { type: String }
+    type: { type: String, enum: ['lip-gloss', 'liquid-lipstick', 'lip-crayon'] },
+    imageUrl: { type: String },
+    price :{ type : String},
 });
 const LipModel= mongoose.model('lip', LipSchema);
 module.exports = LipModel;
+
+
 

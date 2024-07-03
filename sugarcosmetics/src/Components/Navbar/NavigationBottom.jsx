@@ -32,8 +32,8 @@ function NavigationBottom
                         Brushes
                     </Link>
                     <div className={styles.dropdown1}>
-                        <Link to="/facebrushes">FACE BRUSHES</Link>
-                        <Link to="/eyebrushes">EYE BRUSHES</Link>
+                        {/* <Link to="/facebrushes">FACE BRUSHES</Link> */}
+                        {/* <Link to="/eyebrushes">EYE BRUSHES</Link> */}
                     </div>
                 </div>
                 <div   className={styles.makeup}>

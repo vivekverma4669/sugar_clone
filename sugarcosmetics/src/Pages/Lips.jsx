@@ -1,5 +1,3 @@
-
-
 import { Box, Flex, GridItem, Grid, Text } from '@chakra-ui/react';
 import React, { useEffect, useState } from 'react'
 import { GoChevronDown } from 'react-icons/go';
