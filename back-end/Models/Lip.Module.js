@@ -6,7 +6,8 @@ const LipSchema= mongoose.Schema({
     imageUrl: { type: String },
     price :{ type : String},
 });
-const LipModel= mongoose.model('lip', LipSchema);
+
+const LipModel= mongoose.model('lips', LipSchema);
 module.exports = LipModel;
 
 

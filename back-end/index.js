@@ -25,10 +25,10 @@ app.get('/', (req,res)=>{
 });
 
 
-app.use('/lip',LipRouter);
+app.use('/lips',LipRouter);
 app.use('/face',FaceRouter);
 app.use('/eyes',EyeRouter);
 
 app.listen(PORT || 8000,  async () => {
-    console.log(`app running at port 3000`);
+    console.log(`app running at port ${PORT}`);
 })
