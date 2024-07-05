@@ -1,7 +1,7 @@
 
 # Sugar Clone
 
-This project is a clone of Sugar, implemented using Node.js for the backend and HTML for the frontend.
+This project is a clone of Sugar, implemented using Node.js for the backend and React  for the frontend.
 
 ## Features
 
