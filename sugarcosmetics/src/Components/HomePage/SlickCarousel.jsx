@@ -280,7 +280,7 @@ const giftingImages = [
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/WBG1_09f0cf83-792a-4185-8882-5e5e6909a459.jpg?v=1657814596",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Signature-Makeup-Kit.jpg%3Fv%3D1719901641&w=256&q=75",
     description:"Wedding Makeup Kit",
     price:"14",
     
@@ -332,19 +332,19 @@ const supersaverImages=[
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/Value-Set-11---WBG-Images_1.jpg?v=1659456262",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSwipe-Right-Cleansing-Water_da83328e-c91c-4e05-b5db-594ecf05ff51.jpg%3Fv%3D1719842208&w=256&q=75",
     description:"Lipstick value set",
     price:"11",
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/2_bb525208-246a-4f40-b57f-d88372708398.jpg?v=1655308814",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAquaholic-Hyaluronic-Serum.jpg%3Fv%3D1719869378&w=256&q=75",
     description:"Lipstick value set",
     price:"11",
     
   },
   {
-    url:"https://cdn.shopify.com/s/files/1/0906/2558/products/1_e4b6c948-178e-4bfe-a3b3-926119dea615.jpg?v=1649865681",
+    url:"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FFestive-Makeup-Kit_6f8a978b-8e31-45be-bb24-0ef3700439ef.jpg%3Fv%3D1720798832&w=256&q=75",
     description:"Lipstick value set",
     price:"11",
     
